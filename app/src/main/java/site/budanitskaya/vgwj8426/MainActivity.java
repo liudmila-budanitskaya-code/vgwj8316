@@ -1,4 +1,4 @@
-package site.budanitskaya.vgwj8426;
+package site.budanitskaya.vgwj8316;
 
 import android.graphics.Bitmap;
 import android.os.AsyncTask;
